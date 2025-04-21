@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-19)
+## Unreleased (2025-04-21)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4534d81`](https://github.com/stdlib-js/stdlib/commit/4534d81a85cc3b55592e807887a47c6aa233ac1b) - **docs:** update comment _(by Athan Reines)_
 -   [`00450cc`](https://github.com/stdlib-js/stdlib/commit/00450cc5a91760e1d2aba09bb942bb0a84bc9157) - **feat:** add `ndarray/base/every-by` [(#6667)](https://github.com/stdlib-js/stdlib/pull/6667) _(by Muhammad Haris, Athan Reines)_
 
 </details>
