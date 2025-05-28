@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`388d79e`](https://github.com/stdlib-js/stdlib/commit/388d79e99d05a7de27b193de72f46618ccba1241) - **docs:** update comment _(by Athan Reines)_
 -   [`19164e7`](https://github.com/stdlib-js/stdlib/commit/19164e7d0f3cad9e5f3090ea12db115fda8628e9) - **docs:** update example _(by Athan Reines)_
 -   [`a4f78ea`](https://github.com/stdlib-js/stdlib/commit/a4f78ea79e24bab68ce4f3381c8bc9fb685bd002) - **fix:** account for loop tiling when generating list of indices _(by Athan Reines)_
 -   [`6c09182`](https://github.com/stdlib-js/stdlib/commit/6c09182156a8a7d13e52660e278b52d9d6b0166a) - **fix:** use resolved order when computing loop variables _(by Athan Reines)_
