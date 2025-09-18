@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-10)
+## Unreleased (2025-09-18)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`a3e7978`](https://github.com/stdlib-js/stdlib/commit/a3e79786217bf1c9a84875203251af82cc93a222) - **docs:** update markup _(by Athan Reines)_
 -   [`da9d08b`](https://github.com/stdlib-js/stdlib/commit/da9d08b99b9662e7421722b5c2af30f6bfb1bbf5) - **docs:** add missing require to TSDoc example code _(by Philipp Burckhardt)_
 -   [`3b77033`](https://github.com/stdlib-js/stdlib/commit/3b7703363c530e1d485912a441c9ef36b14640cd) - **docs:** update example _(by Athan Reines)_
 -   [`e995411`](https://github.com/stdlib-js/stdlib/commit/e995411cf68fa5d1d0960ce0eff8d3dda3297cd8) - **test:** add tests to `ndarray/base/every-by` [(#7285)](https://github.com/stdlib-js/stdlib/pull/7285) _(by Muhammad Haris)_
