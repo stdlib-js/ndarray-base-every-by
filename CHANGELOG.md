@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-18)
+## Unreleased (2025-12-30)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`e9a380f`](https://github.com/stdlib-js/stdlib/commit/e9a380f51a4457af9b155f18fe13d0aac95d51d8) - **docs:** update dtype type _(by Athan Reines)_
 -   [`a3e7978`](https://github.com/stdlib-js/stdlib/commit/a3e79786217bf1c9a84875203251af82cc93a222) - **docs:** update markup _(by Athan Reines)_
 -   [`da9d08b`](https://github.com/stdlib-js/stdlib/commit/da9d08b99b9662e7421722b5c2af30f6bfb1bbf5) - **docs:** add missing require to TSDoc example code _(by Philipp Burckhardt)_
 -   [`3b77033`](https://github.com/stdlib-js/stdlib/commit/3b7703363c530e1d485912a441c9ef36b14640cd) - **docs:** update example _(by Athan Reines)_
