@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import everyBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every-by@deno/mod.js';
+import everyBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every-by@v0.1.0-deno/mod.js';
 ```
 
 #### everyBy( arrays, predicate\[, thisArg] )
@@ -182,7 +182,7 @@ var count = ctx.count;
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@deno/mod.js';
-import everyBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every-by@deno/mod.js';
+import everyBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every-by@v0.1.0-deno/mod.js';
 
 function clbk( value ) {
     return value > 0;
