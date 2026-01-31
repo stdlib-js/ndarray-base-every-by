@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import everyBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every-by@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-every-by/tags). For example,
+
+```javascript
 import everyBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every-by@v0.1.0-esm/index.mjs';
 ```
 
@@ -187,7 +192,7 @@ var count = ctx.count;
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@esm/index.mjs';
-import everyBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every-by@v0.1.0-esm/index.mjs';
+import everyBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every-by@esm/index.mjs';
 
 function clbk( value ) {
     return value > 0;
