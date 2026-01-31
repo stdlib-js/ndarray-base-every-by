@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-every-by",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test whether all elements in an ndarray pass a test implemented by a predicate function.",
   "license": "Apache-2.0",
   "author": {
@@ -51,11 +51,11 @@
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
-    "@stdlib/array-complex128": "^0.3.0",
+    "@stdlib/array-complex128": "^0.3.1",
     "@stdlib/array-ones": "^0.2.1",
     "@stdlib/array-zeros": "^0.2.2",
     "@stdlib/assert-is-boolean": "^0.2.2",
-    "@stdlib/complex-float64-ctor": "^0.0.3",
+    "@stdlib/complex-float64-ctor": "^0.1.0",
     "@stdlib/complex-float64-imag": "^0.1.1",
     "@stdlib/complex-float64-real": "^0.1.1",
     "@stdlib/math-base-special-cbrt": "^0.2.2",
@@ -102,7 +102,6 @@
     "utils",
     "truthy"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
